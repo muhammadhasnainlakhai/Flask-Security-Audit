@@ -1,4 +1,4 @@
-# CodeAlpha_SecureCodingReview
+# Flask-Security-Audit
 
 Secure coding review of a small Flask web application. The app was audited using the static analysis tool **Bandit** and manual code inspection. Vulnerabilities were documented and fixed.
 
@@ -55,4 +55,4 @@ For educational purposes only. Do not deploy `vulnerable_app.py`.
 
 ## Author
 
-Muhammad Hasnain Lakhai - CodeAlpha Cyber Security Internship
+Muhammad Hasnain Lakhai
